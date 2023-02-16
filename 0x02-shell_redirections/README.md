@@ -1,2 +1,1 @@
-#!/bin/bash
-README.md file for the shell redirections directory
+Readme file for shell redirections
